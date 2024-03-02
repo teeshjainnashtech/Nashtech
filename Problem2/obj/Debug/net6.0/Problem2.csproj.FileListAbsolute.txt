@@ -1,0 +1,15 @@
+/home/nashtech/Problem2/bin/Debug/net6.0/Problem2.deps.json
+/home/nashtech/Problem2/bin/Debug/net6.0/Problem2.dll
+/home/nashtech/Problem2/bin/Debug/net6.0/Problem2.pdb
+/home/nashtech/Problem2/obj/Debug/net6.0/Problem2.csproj.AssemblyReference.cache
+/home/nashtech/Problem2/obj/Debug/net6.0/Problem2.GeneratedMSBuildEditorConfig.editorconfig
+/home/nashtech/Problem2/obj/Debug/net6.0/Problem2.AssemblyInfoInputs.cache
+/home/nashtech/Problem2/obj/Debug/net6.0/Problem2.AssemblyInfo.cs
+/home/nashtech/Problem2/obj/Debug/net6.0/Problem2.csproj.CoreCompileInputs.cache
+/home/nashtech/Problem2/obj/Debug/net6.0/Problem2.dll
+/home/nashtech/Problem2/obj/Debug/net6.0/refint/Problem2.dll
+/home/nashtech/Problem2/obj/Debug/net6.0/Problem2.pdb
+/home/nashtech/Problem2/obj/Debug/net6.0/ref/Problem2.dll
+/home/nashtech/Problem2/bin/Debug/net6.0/Problem2
+/home/nashtech/Problem2/bin/Debug/net6.0/Problem2.runtimeconfig.json
+/home/nashtech/Problem2/obj/Debug/net6.0/Problem2.genruntimeconfig.cache
